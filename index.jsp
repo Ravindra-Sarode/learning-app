@@ -6,5 +6,7 @@
     <h4>god bless you</h4>
 
     <h2>Welcome to ashok it...!</h2>
+
+    //bug -122 changes //logic is going to wrong way
   </body>
 </html>
